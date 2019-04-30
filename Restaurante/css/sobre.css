@@ -1,0 +1,24 @@
+#conteudo{
+    line-height: 1.8em;
+    text-align: justify;
+    margin-left: 58px;
+    margin-right: 58px;
+   margin-top: 60px;
+    font-size:20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#6B6B6B;
+}
+
+h1{
+    margin-left: 55px;
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 45px; 
+    color:black;  
+    font-family: 'Roboto Regular', 'Roboto';
+}
+h2{
+     font-family: 'Roboto Regular', 'Roboto';
+    color: red;
+    font-size: 24px;
+}

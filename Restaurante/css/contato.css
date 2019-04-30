@@ -1,0 +1,96 @@
+form{
+    padding-top: 30px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+}
+.contato{
+    height: 50%;
+}
+label,input{
+display: block;   
+}
+label{
+    padding: 15px;
+    text-align: justify;
+    width: 35px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    
+}
+input{
+    padding: 12px;
+    height: 20px;
+    width: 400px;
+}
+
+br{
+    clear:left;
+}
+textarea{
+    width: 430px;  
+}
+#enviar{
+    background:#ec5353;
+    width: 200px;
+    height: 60px;
+    float: right;
+    text-align: center;
+    padding: .3em;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    color:snow;
+    border-radius:  0.25rem;
+    margin-top: 1.8em;
+    margin-bottom: 40px;
+    display: block;
+    margin-right: 50px;
+    margin-left: 50px;
+    float: inherit;
+
+}
+#contato-desc{
+    margin-top: -30px;
+    margin-left: 350px;
+    margin-bottom: 30px;
+    text-align: initial;
+    font-size: 20px;
+    color: #9b9b9b;
+}
+.ui-datepicker-calendar{
+background-color: whitesmoke;
+border:2px solid tan;
+width: 190px;
+padding-top: 8px;
+
+}
+.ui-icon-circle-triangle-e{
+   font-family:"Roboto";
+   font-size: 12px;
+   
+}
+.ui-icon-circle-triangle-w{
+    font-family:'Roboto';
+    font-size: 12px;
+  
+}
+.ui-state-default{
+    padding: 5px;
+}
+.ui-datepicker-header {
+background-color:tan;
+}
+.ui-datepicker-title{
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+.ui-datepicker-next {
+margin-left: 25px;
+}
+.ui-state-default{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
