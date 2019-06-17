@@ -1,4 +1,5 @@
-# Web-2019.
+#Restaurente Quick Food
+
 Projeto construido na disciplina de web usando HTML,CSS,jQuery.
 O projeto trata-se um site de um restaurante:
 
